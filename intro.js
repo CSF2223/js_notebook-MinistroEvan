@@ -23,8 +23,8 @@ ECMA-262 is the official name of the standard. ECMAScript is the official name o
 
 /* Primitive Data Types (most commonly used)
    the basics building blocks */
-                                                                        // Number - JS has only one number type
-                                                                        // String - series of characters - must be in ""
-                                                                        // Boolean - true or false
-                                                                        // Undefined
+   let myNubmer = 7;                        // Number - JS has only one number type
+   let myName = "Evan";                     // String - series of characters - must be in ""
+   let isRetired = false;                   // Boolean - true or false
+   let score;                               // Undefined
     
